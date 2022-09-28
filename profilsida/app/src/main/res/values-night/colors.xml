@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
     <color name="primary">#F29559</color>
     <color name="secondary">#f2d492</color>
     <color name="ascent">#b8b08d</color>
-    <color name="foreground">#283845</color>
-    <color name="background">#202C39</color>
 </resources>
